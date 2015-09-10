@@ -1,0 +1,44 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+            "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+
+<title>Zola Blog</title>
+
+</head>
+
+<body>
+
+<h1 align=center ; >Zola's Fantasy Sports</h1>
+<h3 align=right>Zola's Financial Insight</h3>
+<h3 align=right>Zola's Software Development</h3>
+<h4 align=right>Zola's News</h4>
+
+<p>
+
+
+<ul>
+	<li>This weeks hot list</li>
+	<li>This weeks Calendar</li>
+	<li>This weeks Top Pick Up</li>
+</ul>
+<p2>
+
+</p2>
+<menu>
+
+</menu>
+
+<table border=2 align=center>
+	<tr>
+	<td>Baseball</td>
+	<td>Basketball</td>
+	<td>Football</td>
+	
+
+</p>
+
+</body>
+
+</html>
